@@ -1,5 +1,9 @@
 # testrepo
 
-## Editing the file
+## a markdown file in this repository
 
-Its a markdown file in this repository
+My first data science projects can be found in this repository
+
+
+
+
