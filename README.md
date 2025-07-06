@@ -1,4 +1,4 @@
-# testrepo
+# Assignment repository
 
 ## a markdown file in this repository
 
